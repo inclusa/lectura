@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mètode de lectura visual
 
 Iniciem aquest mètode de lectura visual mitjançant slides.
@@ -31,3 +32,6 @@ caqui, coco, camí, camió, copa
 ### qu
 
 quilo, moqueta, quiosc, esquimal, esquena
+=======
+# lectura
+>>>>>>> 5aea33300e1d7fed4ec93a9c4f185ed7fb9423c1
