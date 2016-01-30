@@ -32,3 +32,10 @@ caqui, coco, camí, camió, copa
 
 quilo, moqueta, quiosc, esquimal, esquena
 
+### f
+
+foto, fila, foli, foca, no fumar, familia, café,
+
+### d
+
+dau, pomada, diadema, codi, dia, demà, dofí
