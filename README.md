@@ -39,3 +39,11 @@ foto, fila, foli, foca, no fumar, familia, café,
 ### d
 
 dau, pomada, diadema, codi, dia, demà, dofí
+
+### s
+
+sofa, seda, sifó, suma, salami, sépia, safata
+
+### ss
+
+tassa, massapà, cassola, massa, missa,
