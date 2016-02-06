@@ -47,3 +47,11 @@ sofa, seda, sifó, suma, salami, sépia, safata
 ### ss
 
 tassa, massapà, cassola, massa, missa,
+
+## -r
+
+cara, euro, fira, pirata, cadira, hora
+
+## n
+
+nena, nadó, piano, canoa, melena, farina
