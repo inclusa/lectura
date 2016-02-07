@@ -55,3 +55,11 @@ cara, euro, fira, pirata, cadira, hora
 ## n
 
 nena, nadó, piano, canoa, melena, farina
+
+### b
+
+botó, bata, barra, boca, barraca, sabata
+
+### ll
+
+lluna, lleó, llitera, paella, cullera, papallona
