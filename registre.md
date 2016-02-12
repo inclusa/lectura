@@ -2,8 +2,8 @@
 
 | Lletra | Iniciat | En procés | Aconseguit|
 |:--:| :--: |:--: |:--:|
- | p 
- | m 
+ | p
+ | m
  | l
  | t
  | c /qu
