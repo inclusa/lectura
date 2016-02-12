@@ -2,6 +2,8 @@
 
 Iniciem aquest mètode de lectura visual mitjançant slides.
 
+Podeu visitar el projecte on-line en aquest [enllaç](http://inclusa.github.io/lectura/#slide1).
+
 La idea és disposar d'una col·lecció de paraules que es puguen associar a imatges de forma progressiva. En mitjançant l'expocissió de la paraula i de la imatge de forma continuada esperem que es produïsca una associació i un record de la paraula i de la imatge.
 
 La infraestructura dels slides està forquejada de repositori de [Nukeador](https://github.com/nukeador/b2g-slides), a quin donem les gràcies.
@@ -63,3 +65,11 @@ botó, bata, barra, boca, barraca, sabata
 ### ll
 
 lluna, lleó, llitera, paella, cullera, papallona
+
+### r-
+
+ase, casa, masia, música, positiu, zero, camisa
+
+### g
+
+gorra, goma, gat, garrofa, gallina, figuera, guitarra
