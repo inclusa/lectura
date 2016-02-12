@@ -1,6 +1,10 @@
 #Fitxa de seguiment
 
-| Lletra | Iniciat | En procés | Aconseguit|
+
+Alumne:
+---
+
+| Lletra | Iniciat | En procés | Aconseguit |
 |:--:| :--: |:--: |:--:|
 | p 
 | m 
