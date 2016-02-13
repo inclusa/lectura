@@ -20,5 +20,7 @@ Alumne:
 | ll
 | s-
 | g- / gu-
-| #
+| x
+| j
+| v
 
