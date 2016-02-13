@@ -75,3 +75,41 @@ ase, casa, masia, música, positiu, zero, camisa
 ### g
 
 gorra, goma, gat, garrofa, gallina, figuera, guitarra
+
+### x
+
+xicoteta, xocolate, maduixa, coixí, aixeta, caixa, xemeneia
+
+### j
+
+jove, jaqueta, pijama, jutge, joguet
+
+### v
+
+fava, lavavo, tovalló, divisió, violí, vaca
+
+### ny
+
+pinya, canya, llenya, senyora, teranyina, aranya, banyera
+
+### -s
+
+escola, bastó, mosca, fusta, os, nas, gas, mes, tos dos, gos
+
+### -r
+
+arpa, armari, mar, mur, far, porta, carta
+
+### -t
+
+pit, pot, dit, set, nit, llet, got
+
+### -n
+
+antena, món, menta, pantaló, pantalla, bandera
+
+### -l
+
+col, cul, fil, sal, cel, sol, mòbil
+
+142
