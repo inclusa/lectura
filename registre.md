@@ -4,13 +4,13 @@
 ### Alumne:
 
 
-| Lletra | Iniciat | En procés | Aconseguit |
+| Lletra | Iniciat | Aprenent | Assolit |
 |:--:| :--: |:--: |:--:|
 | p
 | m
 | l
 | t
-| c /qu
+| c/qu
 | f
 | d
 | s
@@ -19,11 +19,11 @@
 | b
 | ll
 | s-
-| g- / gu-
+| g-/gu-
 | x
 | j
 | v
-| my
+| ny
 | -s
 | -r
 | -t
