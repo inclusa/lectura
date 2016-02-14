@@ -1,13 +1,13 @@
 #Fitxa de seguiment
 
 
-Alumne:
----
+### Alumne:
+
 
 | Lletra | Iniciat | En procés | Aconseguit |
 |:--:| :--: |:--: |:--:|
-| p 
-| m 
+| p
+| m
 | l
 | t
 | c /qu
@@ -23,4 +23,9 @@ Alumne:
 | x
 | j
 | v
-
+| my
+| -s
+| -r
+| -t
+| -n
+| -l
