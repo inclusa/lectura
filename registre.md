@@ -29,6 +29,21 @@
 | -t
 | -n
 | -l
+| -c
+| -ll
+| tr-
+| dr-
+| pr-
+| pl-
+| br-
+| bl-
+| cr-
+| cl-
+| fr-
+| fl-
+| gr-
+| gl-
+
 
 Autor Alfons Rovira
 Llicència Creative Commons Share a like 4.0 Spain
